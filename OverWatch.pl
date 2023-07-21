@@ -1,5 +1,3 @@
-% Simple scooby-doo expert system - main controls
-% Header
 % Name: Marina Nasralla
 % Date: 7/19/2023
 % Title: Overwatch Hero finder
